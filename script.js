@@ -149,7 +149,7 @@ var hireMeLink = document.getElementById('hireMeLink');
 downloadLink.addEventListener('click', function(event) {
     event.preventDefault(); // Prevent default behavior of the anchor tag
     // Replace 'your_resume.pdf' with the actual name of your resume file
-    var resumeUrl = 'RESUME_deva.pdf';
+    var resumeUrl = 'software_engnieer_devarshi_tambulkar.pdf';
     // Create an anchor element
     var downloadLinkElement = document.createElement('a');
     // Set the download link's href attribute to the URL of your resume file
